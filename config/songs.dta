@@ -1,0 +1,675 @@
+(allday
+   (name
+      "All Day and All of the Night")
+   (artist
+      {do
+         {set $songalbum "Kinks-Size"}
+         {set $author "Neversoft"}
+         {set $songyear "1965"}
+         {set $songgenre "Pop-Rock"}
+         {set $songorigin "Guitar Hero: Aerosmith"}
+         {set $songduration 161845}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "The Kinks"}
+      }
+      "The Kinks"
+   )
+   (song
+      (name songs/allday/allday)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (0.0 0.0 0.0 0.0 0.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/allday/allday.mid))
+   (anim_tempo kTempoMedium)
+   (preview 26880 46080)
+   (quickplay
+      (character_outfit classic)
+      (guitar flying_v)
+      (venue small1)))
+(baseline
+   (name "Baseline")
+   (artist
+      {do
+         {set $songalbum "Jinx"}
+         {set $author "mariteaux"}
+         {set $songyear "2002"}
+         {set $songgenre "Alternative"}
+         {set $songorigin "Customs Repo"}
+         {set $songduration 199592}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Quarashi"}
+      }
+      "Quarashi"
+   )
+   (caption performed_by)
+   (song
+      (name songs/baseline/baseline)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          (fake 0)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/baseline/baseline.mid))
+   (anim_tempo kTempoMedium)
+   (preview 53860 78350)
+   (quickplay
+      (character_outfit funk1)
+      (guitar sg)
+      (venue arena)))
+(bombtrack
+   (name
+      "Bombtrack")
+   (artist
+      {do
+         {set $songalbum "Rage Against the Machine"}
+         {set $author "Harmonix"}
+         {set $songyear "1992"}
+         {set $songgenre "Alternative"}
+         {set $songorigin "Rock Band 3 DLC"}
+         {set $songduration 247281}
+         {set $songguitarrank 4}
+         {set $songbassrank 3}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Rage Against the Machine"}
+      }
+      "Rage Against the Machine"
+   )
+   (caption performed_by)
+   (song
+      (name songs/bombtrack/bombtrack)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (0.0 0.0 0.0 0.0 0.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/bombtrack/bombtrack.mid))
+   (anim_tempo kTempoMedium)
+   (preview 44640 99840)
+   (quickplay
+      (character_outfit alterna1)
+      (guitar lespaul)
+      (venue small2)))
+(codemonkey
+   (name "Code Monkey")
+   (artist
+      {do
+         {set $songalbum "Thing-a-Week Three"}
+         {set $author "mariteaux"}
+         {set $songyear "2006"}
+         {set $songgenre "Rock"}
+         {set $songorigin "marfGH: Vol. 0"}
+         {set $songduration 190678}
+         {set $songguitarrank 2}
+         {set $songbassrank 2}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Jonathan Coulton"}
+      }
+      "Jonathan Coulton"
+   )
+   (caption performed_by)
+   (song
+      (name songs/codemonkey/codemonkey)
+      (tracks
+         ((guitar 2)
+          (bass 3)))
+      (pans (-1.0 1.0 0.0 0.0))
+      (vols (0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 -1))
+      (midi_file songs/codemonkey/codemonkey.mid)
+      (hopo_threshold 250))
+   (anim_tempo kTempoFast)
+   (preview 28735 56588)
+   (quickplay
+      (character_outfit alterna1)
+      (guitar epiphone_coronet)
+      (venue fest)))
+(december
+   (name "December")
+   (artist
+      {do
+         {set $songalbum "Collective Soul"}
+         {set $author "mariteaux"}
+         {set $songyear "1995"}
+         {set $songgenre "Alternative"}
+         {set $songorigin "marfGH Xbox Pack"}
+         {set $songduration 289258}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Collective Soul"}
+      }
+      "Collective Soul"
+   )
+   (caption performed_by)
+   (song
+      (name songs/december/december)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/december/december.mid))
+   (anim_tempo kTempoMedium)
+   (preview 49140 74740)
+   (quickplay
+      (character_outfit rock2)
+      (guitar lespaul)
+      (venue big)))
+(dimension
+   (name "Dimension")
+   (artist
+      {do
+         {set $songalbum "Wolfmother"}
+         {set $author "mariteaux"}
+         {set $songyear "2005"}
+         {set $songgenre "Rock"}
+         {set $songorigin "marfGH Xbox Pack"}
+         {set $songduration 263706}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Wolfmother"}
+      }
+      "Wolfmother"
+   )
+   (caption performed_by)
+   (song
+      (name songs/dimension/dimension)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/dimension/dimension.mid))
+   (anim_tempo kTempoMedium)
+   (preview 80820 105000)
+   (quickplay
+      (character_outfit rock2)
+      (guitar sg)
+      (venue fest)))
+(dopenose
+   (name "Dope Nose")
+   (artist
+      {do
+         {set $songalbum "Maladroit"}
+         {set $author "mariteaux"}
+         {set $songyear "2002"}
+         {set $songgenre "Alternative"}
+         {set $songorigin "Amplitude"}
+         {set $songduration 195467}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Weezer"}
+      }
+      "Weezer"
+   )
+   (caption performed_by)
+   (song
+      (name songs/dopenose/dopenose)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/dopenose/dopenose.mid))
+   (anim_tempo kTempoMedium)
+   (preview 22400 52600)
+   (quickplay
+      (character_outfit glam1)
+      (guitar sg)
+      (venue fest)))
+(girlslikeyou
+   (name "Girls Like You")
+   (artist
+      {do
+         {set $songalbum "The Spin Wires"}
+         {set $author "mariteaux"}
+         {set $songyear "2013"}
+         {set $songgenre "Punk"}
+         {set $songorigin "marfGH Xbox Pack"}
+         {set $songduration 197805}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "The Spin Wires"}
+      }
+      "The Spin Wires"
+   )
+   (caption performed_by)
+   (song
+      (name songs/girlslikeyou/girlslikeyou)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/girlslikeyou/girlslikeyou.mid))
+   (anim_tempo kTempoFast)
+   (preview 14670 58420)
+   (quickplay
+      (character_outfit punk1)
+      (guitar sg)
+      (venue fest)))
+(passport
+   (name "Passport Please")
+   (artist
+      {do
+         {set $songalbum "The Media Folder"}
+         {set $author "mariteaux"}
+         {set $songyear "1995"}
+         {set $songgenre "Midi"}
+         {set $songorigin "marfGH Xbox Pack"}
+         {set $songduration 124798}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Passport Designs"}
+      }
+      "Passport Designs"
+   )
+   (caption performed_by)
+   (song
+      (name songs/passport/passport)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 -0.0))
+      (vols (0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/passport/passport.mid))
+   (anim_tempo kTempoMedium)
+   (preview 24680 57590)
+   (quickplay
+      (character_outfit goth2)
+      (guitar redoctane)
+      (venue arena))
+   (band metal_drummer metal_bass metal_keyboard))
+(push
+   (name
+      "Push")
+   (artist
+      {do
+         {set $songalbum "Amplitude Soundtrack"}
+         {set $author "mariteaux"}
+         {set $songyear "2003"}
+         {set $songgenre "Pop/Dance/Electronic"}
+         {set $songorigin "Amplitude"}
+         {set $songduration 218606}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Game Boyz"}
+      }
+      "Game Boyz"
+   )
+   (caption performed_by)
+   (song
+      (name songs/push/push)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (0.0 0.0 0.0 0.0 0.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/push/push.mid))
+   (anim_tempo kTempoMedium)
+   (preview 40560 60560)
+   (quickplay
+      (character_outfit goth1)
+      (guitar flying_v)
+      (venue arena)))
+(retribution
+   (name "Retribution")
+   (artist
+      {do
+         {set $songalbum "PowerGig Soundtrack"}
+         {set $author "mariteaux"}
+         {set $songyear "2010"}
+         {set $songgenre "Metal"}
+         {set $songorigin "marfGH Xbox Pack"}
+         {set $songduration 270884}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Black Label Society"}
+      }
+      "Black Label Society"
+   )
+   (caption performed_by)
+   (song
+      (name songs/retribution/retribution)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/retribution/retribution.mid))
+   (anim_tempo kTempoMedium)
+   (preview 61900 89900)
+   (quickplay
+      (character_outfit metal1)
+      (guitar lespaul)
+      (venue stone)))
+(soulsforsale
+   (name "Souls for Sale (Circus Fire Scene)")
+   (artist
+      {do
+         {set $songalbum "Greetings from Elderbush Gulch"}
+         {set $author "mariteaux"}
+         {set $songyear "2006"}
+         {set $songgenre "Rock"}
+         {set $songorigin "marfGH: Vol. 0"}
+         {set $songduration 72262}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Ben Minnotte"}
+      }
+      "Ben Minnotte"
+   )
+   (caption performed_by)
+   (song
+      (name songs/soulsforsale/soulsforsale)
+      (tracks
+         ((guitar 1)
+         (rhythm 2)))
+      (pans (0.0 0.0 0.0))
+      (vols (0.0 0.0 0.0))
+      (cores (-1 1 1))
+      (midi_file songs/soulsforsale/soulsforsale.mid))
+   (anim_tempo kTempoMedium)
+   (preview 31478 46531)
+   (quickplay
+      (character_outfit classic)
+      (guitar es335)
+      (venue battle))
+   (band metal_drummer))
+(substitution
+   (name
+      "Substitution")
+   (artist
+      {do
+         {set $songalbum "Swoon"}
+         {set $author "mariteaux"}
+         {set $songyear "2009"}
+         {set $songgenre "Indie Rock"}
+         {set $songorigin "marfGH: Vol. 0"}
+         {set $songduration 283697}
+         {set $songguitarrank 4}
+         {set $songbassrank 2}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Silversun Pickups"}
+      }
+      "Silversun Pickups"
+   )
+   (caption performed_by)
+   (song
+      (name songs/substitution/substitution)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (0.0 0.0 0.0 0.0 0.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/substitution/substitution.mid))
+   (anim_tempo kTempoFast)
+   (preview 39000 80000)
+   (quickplay
+      (character_outfit alterna1)
+      (guitar lespaul)
+      (venue big)))
+(subterrain
+   (name "Subterrain Steps")
+   (artist
+      {do
+         {set $songalbum "Green Planet Adventures!"}
+         {set $author "mariteaux"}
+         {set $songyear "2018"}
+         {set $songgenre "Metal"}
+         {set $songorigin "marfGH Xbox Pack"}
+         {set $songduration 233008}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Freen in Green"}
+      }
+      "Freen in Green"
+   )
+   (caption performed_by)
+   (song
+      (name songs/subterrain/subterrain)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/subterrain/subterrain.mid))
+   (anim_tempo kTempoMedium)
+   (preview 57100 99550)
+   (quickplay
+      (character_outfit goth2)
+      (guitar moderne)
+      (venue stone))
+   (band metal_bass metal_drummer metal_keyboard))
+(veryape
+   (name "Very Ape")
+   (artist
+      {do
+         {set $songalbum "In Utero"}
+         {set $author "mariteaux"}
+         {set $songyear "1993"}
+         {set $songgenre "Grunge"}
+         {set $songorigin "marfGH Xbox Pack"}
+         {set $songduration 118253}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Nirvana"}
+      }
+      "Nirvana"
+   )
+   (caption performed_by)
+   (song
+      (name songs/veryape/veryape)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/veryape/veryape.mid))
+   (song_coop
+      (name songs/veryape/veryape_coop)
+      (tracks
+         ((guitar (2 3))
+          (rhythm (4 5))))
+      (pans (-1.0 1.0 -1.0 1.0 -1.0 1.0))
+      (vols (0.0 0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 1 -1 -1))
+      (midi_file songs/veryape/veryape_coop.mid))
+   (anim_tempo kTempoMedium)
+   (preview 34900 53840)
+   (quickplay
+      (character_outfit alterna1)
+      (guitar sg)
+      (venue fest)))
+(wedieyoung
+   (name
+      "We Die Young")
+   (artist
+      {do
+         {set $songalbum "Facelift"}
+         {set $author "Harmonix"}
+         {set $songyear "1990"}
+         {set $songgenre "Grunge"}
+         {set $songorigin "Rock Band 2 DLC"}
+         {set $songduration 155275}
+         {set $songguitarrank 5}
+         {set $songbassrank 4}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Alice in Chains"}
+      }
+      "Alice in Chains"
+   )
+   (caption performed_by)
+   (song
+      (name songs/wedieyoung/wedieyoung)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (0.0 0.0 0.0 0.0 0.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/wedieyoung/wedieyoung.mid))
+   (anim_tempo kTempoMedium)
+   (preview 84480 145920)
+   (quickplay
+      (character_outfit glam1)
+      (guitar sg)
+      (venue small1)))
+(whygo
+   (name
+      "Why Go")
+   (artist
+      {do
+         {set $songalbum "Ten"}
+         {set $author "Harmonix"}
+         {set $songyear "1991"}
+         {set $songgenre "Grunge"}
+         {set $songorigin "Rock Band 2 DLC"}
+         {set $songduration 204382}
+         {set $songguitarrank 6}
+         {set $songbassrank 5}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Pearl Jam"}
+      }
+      "Pearl Jam"
+   )
+   (caption performed_by)
+   (song
+      (name songs/whygo/whygo)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (0.0 0.0 0.0 0.0 0.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/whygo/whygo.mid))
+   (anim_tempo kTempoFast)
+   (preview 52200 85250)
+   (quickplay
+      (character_outfit rock2)
+      (guitar sg)
+      (venue fest)))
+(xlr8r
+   (name
+      "XLR8R")
+   (artist
+      {do
+         {set $songalbum "XLR8R"}
+         {set $author "mariteaux"}
+         {set $songyear "2001"}
+         {set $songgenre "Indie Rock"}
+         {set $songorigin "FreQuency"}
+         {set $songduration 137776}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Orbit"}
+      }
+      "Orbit"
+   )
+   (caption performed_by)
+   (song
+      (name songs/xlr8r/xlr8r)
+      (tracks
+         ((guitar
+               (2 3))
+            (rhythm 
+			   (4 5))))
+      (pans
+         (-1.0 1.0 -1.0 0.5 -0.5 1.0))
+      (vols
+         (0.0 0.0 0.0 0.0 -1.0 -1.0))
+      (cores
+         (-1 -1 1 1 1 1))
+      (midi_file songs/xlr8r/xlr8r.mid))
+   (song_coop
+      (name songs/xlr8r/xlr8r_coop)
+      (tracks
+         ((guitar
+               (2 3))
+            (rhythm 
+			   (4 5))))
+      (pans
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0))
+      (vols
+         (0.0 0.0 0.0 0.0 0.0 0.0))
+      (cores
+         (-1 -1 1 1 1 1))
+      (midi_file songs/xlr8r/xlr8r.mid))
+   (anim_tempo kTempoFast)
+   (preview 26000 58000)
+   (quickplay
+      (character_outfit rock2)
+      (guitar lespaul)
+      (venue arena)))
