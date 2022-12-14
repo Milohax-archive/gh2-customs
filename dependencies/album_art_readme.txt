@@ -1,0 +1,1 @@
+For Xbox hardware, copy the album_art folder inside the "gen" folder next to your default.xex for GH2DX.
