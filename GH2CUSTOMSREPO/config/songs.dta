@@ -71,6 +71,46 @@
       (character_outfit funk1)
       (guitar sg)
       (venue arena)))
+(blacktongue
+   (name
+      "Black Tongue")
+   (artist
+      {do
+         {set $songalbum "The Hunter"}
+         {set $author "AddyMills"}
+         {set $songyear "2011"}
+         {set $songgenre "Metal"}
+         {set $songorigin "AddyGH"}
+         {set $songduration 211257}
+         {set $songguitarrank 5}
+         {set $songbassrank 5}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Mastodon"}
+      }
+      "Mastodon"
+   )
+   (caption performed_by)
+   (song
+      (name songs/blacktongue/blacktongue)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 
+			   (4 5))))
+      (pans
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0))
+      (vols
+         (-2.0 -2.0 -1.5 -1.5 -3.5 -3.5))
+      (cores
+         (-1 -1 1 1 -1 -1))
+      (midi_file songs/blacktongue/blacktongue.mid))
+   (anim_tempo kTempoMedium)
+   (preview 83272 115141)
+   (quickplay
+      (character_outfit grim)
+      (guitar scythe)
+      (venue battle)))
 (bombtrack
    (name
       "Bombtrack")
@@ -110,6 +150,85 @@
       (character_outfit alterna1)
       (guitar lespaul)
       (venue small2)))
+(brianstorm
+   (name
+      "Brianstorm")
+   (artist
+      {do
+         {set $songalbum "Favourite Worst Nightmare"}
+         {set $author "Neversoft, AddyMills"}
+         {set $songyear "2007"}
+         {set $songgenre "Indie Rock"}
+         {set $songorigin "Guitar Hero 5"}
+         {set $songduration 172363}
+         {set $songguitarrank 4}
+         {set $songbassrank 4}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Arctic Monkeys"}
+      }
+      "Arctic Monkeys"
+   )
+   (caption performed_by)
+   (song
+      (name songs/brianstorm/brianstorm)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-1.0 -1.0 -1.0 -1.0 -1.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/brianstorm/brianstorm.mid))
+   (anim_tempo kTempoFast)
+   (preview 37838 67838)
+   (quickplay
+      (character_outfit glam1)
+      (guitar lespaul_sonex)
+      (venue battle)))
+(burn
+   (name
+      "Burn")
+   (artist
+      {do
+         {set $songalbum "Burn"}
+         {set $author "Neversoft, AddyMills"}
+         {set $songyear "1974"}
+         {set $songgenre "Classic Rock"}
+         {set $songorigin "Guitar Hero: Warriors of Rock"}
+         {set $songduration 362914}
+         {set $songguitarrank 7}
+         {set $songbassrank 5}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Deep Purple"}
+      }
+      "Deep Purple"
+   )
+   (caption performed_by)
+   (song
+      (name songs/burn/burn)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-3.5 -3.5 -2.5 -2.5 -2.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/burn/burn.mid)
+      (hopo_threshold 250))
+   (anim_tempo kTempoMedium)
+   (preview 70406 100406)
+   (quickplay
+      (character_outfit rock2)
+      (guitar lespaul_marauder)
+      (venue small2)))
 (codemonkey
    (name "Code Monkey")
    (artist
@@ -145,6 +264,74 @@
       (character_outfit alterna1)
       (guitar epiphone_coronet)
       (venue fest)))
+(comeon
+   (name "Come On!")
+   (artist
+      {do
+         {set $songalbum "Lex Hives"}
+         {set $author "AddyMills"}
+         {set $songyear "2012"}
+         {set $songgenre "Rock"}
+         {set $songorigin "AddyGH"}
+         {set $songduration 70797}
+         {set $songguitarrank 3}
+         {set $songbassrank 2}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "The Hives"}
+      }
+      "The Hives"
+   )
+   (caption performed_by)
+   (song
+      (name songs/comeon/comeon)
+      (tracks
+         ((guitar 2 3)
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-2.5 -2.5 -1.5 -1.5 -1.5))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/comeon/comeon.mid))
+   (anim_tempo kTempoFast)
+   (preview 22638 44943)
+   (quickplay
+      (character_outfit goth1)
+      (guitar epiphone_coronet)
+      (venue big)))
+(deathmental
+   (name "Death Mental")
+   (artist
+      {do
+         {set $songalbum "Golden Album"}
+         {set $author "AddyMills"}
+         {set $songyear "2012"}
+         {set $songgenre "J-Rock"}
+         {set $songorigin "AddyGH"}
+         {set $songduration 228640}
+         {set $songguitarrank 7}
+         {set $songbassrank 6}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Golden Bomber"}
+      }
+      "Golden Bomber"
+   )
+   (caption performed_by)
+   (song
+      (name songs/deathmental/deathmental)
+      (tracks
+         ((guitar 2)
+          (bass 3)))
+      (pans (-1.0 1.0 0.0 0.0))
+      (vols (-1.0 -1.0 0.0 0.0))
+      (cores (-1 -1 -1 -1))
+      (midi_file songs/deathmental/deathmental.mid))
+   (anim_tempo kTempoFast)
+   (preview 41678 57589)
+   (quickplay
+      (character_outfit goth1)
+      (guitar epiphone_coronet)
+      (venue theatre)))
 (december
    (name "December")
    (artist
@@ -179,6 +366,41 @@
       (character_outfit rock2)
       (guitar lespaul)
       (venue big)))
+(deepshift
+   (name "Deep Shift")
+   (artist
+      {do
+         {set $songalbum "Sleepwalker"}
+         {set $author "AddyMills"}
+         {set $songyear "2011"}
+         {set $songgenre "Acoustic"}
+         {set $songorigin "AddyGH"}
+         {set $songduration 183646}
+         {set $songguitarrank 7}
+         {set $songbassrank 0}
+         {set $songrhythmrank 7}
+         {set $songdrumrank 0}
+         {set $songartist "POM"}
+      }
+      "POM"
+   )
+   (caption performed_by)
+   (song
+      (name songs/deepshift/deepshift)
+      (tracks
+         ((guitar 2)
+         (rhythm 3)))
+      (pans (-1.0 1.0 -1.0 1.0))
+      (vols (-4.0 -4.0 -2.0 -2.0))
+      (cores (-1 -1 1 1))
+      (midi_file songs/deepshift/deepshift.mid))
+   (anim_tempo kTempoMedium)
+   (preview 22470 56262)
+   (quickplay
+      (character_outfit metal1)
+      (guitar sg)
+      (venue fest))
+   (band metal_drummer))
 (dimension
    (name "Dimension")
    (artist
@@ -247,6 +469,128 @@
       (character_outfit glam1)
       (guitar sg)
       (venue fest)))
+(dreamhouse
+   (name
+      "Dream House")
+   (artist
+      {do
+         {set $songalbum "Sunbather"}
+         {set $author "AddyMills"}
+         {set $songyear "2013"}
+         {set $songgenre "Metal"}
+         {set $songorigin "AddyGH"}
+         {set $songduration 560210}
+         {set $songguitarrank 7}
+         {set $songbassrank 0}
+         {set $songrhythmrank 5}
+         {set $songdrumrank 0}
+         {set $songartist "Deafheaven"}
+      }
+      "Deafheaven"
+   )
+   (caption performed_by)
+   (song
+      (name songs/dreamhouse/dreamhouse)
+      (tracks
+         ((guitar
+               (2 3))
+            (rhythm 
+			   (4 5))))
+      (pans
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0))
+      (vols
+         (-3.0 -3.0 -3.0 -3.0 -3.0 -3.0))
+      (cores
+         (-1 -1 1 1 -1 -1))
+      (midi_file songs/dreamhouse/dreamhouse.mid))
+   (anim_tempo kTempoMedium)
+   (preview 99741 124504)
+   (quickplay
+      (character_outfit rock2)
+      (guitar kramer_vanguard)
+      (venue stone)))
+(endorphin
+   (name
+      "Endorphin")
+   (artist
+      {do
+         {set $songalbum "SPECIES"}
+         {set $author "AddyMills"}
+         {set $songyear "2020"}
+         {set $songgenre "Metal"}
+         {set $songorigin "AddyGH"}
+         {set $songduration 199720}
+         {set $songguitarrank 6}
+         {set $songbassrank 6}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Crossfaith"}
+      }
+      "Crossfaith"
+   )
+   (caption performed_by)
+   (song
+      (name songs/endorphin/endorphin)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 
+			   (4 5))))
+      (pans
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0))
+      (vols
+         (-3.0 -3.0 -3.0 -3.0 -3.0 -3.0))
+      (cores
+         (-1 -1 1 1 -1 -1))
+      (midi_file songs/endorphin/endorphin.mid))
+   (anim_tempo kTempoMedium)
+   (preview 67132 95664)
+   (quickplay
+      (character_outfit deathmetal1)
+      (guitar eds)
+      (venue stone)))
+(finder
+   (name
+      "Finder")
+   (artist
+      {do
+         {set $songalbum "Prototype"}
+         {set $author "AddyMills"}
+         {set $songyear "2021"}
+         {set $songgenre "Pop/Dance/Electronic"}
+         {set $songorigin "AddyGH"}
+         {set $songduration 236571}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "UZA"}
+      }
+      "UZA"
+   )
+   (caption performed_by)
+   (song
+      (name songs/finder/finder)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 
+			   (4 5))))
+      (pans
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0))
+      (vols
+         (-2.0 -2.0 -2.0 -2.0 -4.0 -4.0))
+      (cores
+         (-1 -1 1 1 -1 -1))
+      (midi_file songs/finder/finder.mid)
+      (hopo_threshold 130))
+   (anim_tempo kTempoMedium)
+   (preview 123428 152000)
+   (band metal_bass metal_drummer female_singer)
+   (quickplay
+      (character_outfit rockabill2)
+      (guitar explorer)
+      (venue theatre)))
 (girlslikeyou
    (name "Girls Like You")
    (artist
@@ -281,6 +625,304 @@
       (character_outfit punk1)
       (guitar sg)
       (venue fest)))
+(witchhunting
+   (name
+      "Hunting for Witches")
+   (artist
+      {do
+         {set $songalbum "A Weekend in the City"}
+         {set $author "AddyMills"}
+         {set $songyear "2007"}
+         {set $songgenre "Indie Rock"}
+         {set $songorigin "AddyGH"}
+         {set $songduration 208662}
+         {set $songguitarrank 4}
+         {set $songbassrank 3}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Bloc Party"}
+      }
+      "Bloc Party"
+   )
+   (caption performed_by)
+   (song
+      (name songs/witchhunting/witchhunting)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 
+			   (4 5))))
+      (pans
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0))
+      (vols
+         (-2.5 -2.5 -1.0 -1.0 -2.5 -2.5))
+      (cores
+         (-1 -1 1 1 -1 -1))
+      (midi_file songs/witchhunting/witchhunting.mid))
+   (anim_tempo kTempoFast)
+   (preview 107388 145605)
+   (quickplay
+      (character_outfit funk1)
+      (guitar kramer_vanguard)
+      (venue arena)))
+(allalone
+   (name "Incomplete and All Alone")
+   (artist
+      {do
+         {set $songalbum "Evolution"}
+         {set $author "AddyMills"}
+         {set $songyear "2012"}
+         {set $songgenre "Pop/Dance/Electronic"}
+         {set $songorigin "AddyGH"}
+         {set $songduration 233157}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Blood on the Dance Floor"}
+      }
+      "Blood on the Dance Floor"
+   )
+   (caption performed_by)
+   (song
+      (name songs/allalone/allalone)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-3.0 -3.0 -3.0 -3.0 -3.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/allalone/allalone.mid))
+   (anim_tempo kTempoFast)
+   (preview 67825 100869)
+   (quickplay
+      (character_outfit metal2)
+      (guitar kramer_vanguard)
+      (venue battle)))
+(iwontforget
+   (name
+      "I Won't Forget")
+   (artist
+      {do
+         {set $songalbum "One One One"}
+         {set $author "AddyMills"}
+         {set $songyear "2013"}
+         {set $songgenre "Metal"}
+         {set $songorigin "AddyGH"}
+         {set $songduration 229410}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Shining (NOR)"}
+      }
+      "Shining (NOR)"
+   )
+   (caption performed_by)
+   (song
+      (name songs/iwontforget/iwontforget)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 
+			   (4 5))))
+      (pans
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0))
+      (vols
+         (-4.0 -4.0 -2.0 -2.0 -5.0 -5.0))
+      (cores
+         (-1 -1 1 1 -1 -1))
+      (midi_file songs/iwontforget/iwontforget.mid)
+      (hopo_threshold 250))
+   (anim_tempo kTempoFast)
+   (preview 46000 66000)
+   (quickplay
+      (character_outfit rock2)
+      (guitar lespaul)
+      (venue theatre)))
+(jade
+   (name "Jade")
+   (artist
+      {do
+         {set $songalbum "Jade"}
+         {set $author "AddyMills"}
+         {set $songyear "2011"}
+         {set $songgenre "Metal"}
+         {set $songorigin "AddyGH"}
+         {set $songduration 382025}
+         {set $songguitarrank 6}
+         {set $songbassrank 5}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "X Japan"}
+      }
+      "X Japan"
+   )
+   (caption performed_by)
+   (song
+      (name songs/jade/jade)
+      (tracks
+         ((guitar 2)
+         (bass 3)))
+      (pans (-1.0 1.0 -1.0 1.0))
+      (vols (0.0 0.0 0.0 0.0))
+      (cores (-1 -1 -1 -1))
+      (midi_file songs/jade/jade.mid))
+   (anim_tempo kTempoFast)
+   (preview 82974 112405)
+   (quickplay
+      (character_outfit goth1)
+      (guitar epiphone_coronet)
+      (venue theatre)))
+(lune
+   (name "Lune")
+   (artist
+      {do
+         {set $songalbum "Periphery III: Select Difficulty"}
+         {set $author "AddyMills"}
+         {set $songyear "2016"}
+         {set $songgenre "Prog Metal"}
+         {set $songorigin "AddyGH"}
+         {set $songduration 450666}
+         {set $songguitarrank 4}
+         {set $songbassrank 3}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Periphery"}
+      }
+      "Periphery"
+   )
+   (caption performed_by)
+   (song
+      (name songs/lune/lune)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-3.0 -3.0 -3.0 -3.0 -4.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/lune/lune.mid))
+   (anim_tempo kTempoMedium)
+   (preview 263999 297777)
+   (quickplay
+      (character_outfit rock1)
+      (guitar es335)
+      (venue small1)))
+(mama
+   (name
+      "Mama")
+   (artist
+      {do
+         {set $songalbum "What is Love?"}
+         {set $author "AddyMills"}
+         {set $songyear "2018"}
+         {set $songgenre "Pop"}
+         {set $songorigin "AddyGH"}
+         {set $songduration 192352}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Clean Bandit (ft. Ellie Goulding)"}
+      }
+      "Clean Bandit (ft. Ellie Goulding)"
+   )
+   (caption performed_by)
+   (song
+      (name songs/mama/mama)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 
+			   (4 5))))
+      (pans
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0))
+      (vols
+         (-3.0 -3.0 -1.5 -1.5 -2.5 -2.5))
+      (cores
+         (-1 -1 1 1 -1 -1))
+      (midi_file songs/mama/mama.mid))
+   (anim_tempo kTempoMedium)
+   (preview 47058 71176)
+   (band metal_bass metal_drummer female_singer)
+   (quickplay
+      (character_outfit classic)
+      (guitar eds)
+      (venue fest)))
+(monster
+   (name
+      "Monster")
+   (artist
+      {do
+         {set $songalbum "Not Accepted Anywhere"}
+         {set $author "Harmonix"}
+         {set $songyear "2006"}
+         {set $songgenre "Alternative"}
+         {set $songorigin "LEGO Rock Band"}
+         {set $songduration 223310}
+         {set $songguitarrank 4}
+         {set $songbassrank 2}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "The Automatic"}
+      }
+      "The Automatic"
+   )
+   (caption performed_by)
+   (song
+      (name songs/monster/monster)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 
+			   (4 5))))
+      (pans
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0))
+      (vols
+         (-3.7 -3.7 -0.5 -0.5 -1.0 -1.0))
+      (cores
+         (-1 -1 1 1 -1 -1))
+      (midi_file songs/monster/monster.mid))
+   (anim_tempo kTempoMedium)
+   (preview 43996 73996)
+   (quickplay
+      (character_outfit rockabill1)
+      (guitar lespaul_sonex)
+      (venue theatre)))
+(musclemuseum
+   (name "Muscle Museum")
+   (artist
+      {do
+         {set $songalbum "Showbiz"}
+         {set $author "AddyMills"}
+         {set $songyear "1999"}
+         {set $songgenre "Alternative"}
+         {set $songorigin "AddyGH"}
+         {set $songduration 253103}
+         {set $songguitarrank 3}
+         {set $songbassrank 2}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Muse"}
+      }
+      "Muse"
+   )
+   (caption performed_by)
+   (song
+      (name songs/musclemuseum/musclemuseum)
+      (tracks
+         ((guitar 2 3)
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-2.5 -2.5 -1.5 -1.5 -1.5))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/musclemuseum/musclemuseum.mid))
+   (anim_tempo kTempoMedium)
+   (preview 86881 116769)
+   (quickplay
+      (character_outfit alterna2)
+      (guitar epiphone_casino)
+      (venue small1)))
 (passport
    (name "Passport Please")
    (artist
@@ -316,6 +958,41 @@
       (guitar redoctane)
       (venue arena))
    (band metal_drummer metal_bass metal_keyboard))
+(periloustime
+   (name "Perilous Time")
+   (artist
+      {do
+         {set $songalbum "Study Trip"}
+         {set $author "AddyMills"}
+         {set $songyear "2020"}
+         {set $songgenre "Dub"}
+         {set $songorigin "AddyGH"}
+         {set $songduration 229811}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Baltimores"}
+      }
+      "Baltimores"
+   )
+   (caption performed_by)
+   (song
+      (name songs/periloustime/periloustime)
+      (tracks
+         ((guitar 2 3)
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-3.0 -3.0 -2.0 -2.0 -3.5))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/periloustime/periloustime.mid)
+      (hopo_threshold 90))
+   (anim_tempo kTempoMedium)
+   (preview 28936 61277)
+   (quickplay
+      (character_outfit alterna2)
+      (guitar kramer_vanguard)
+      (venue small2)))
 (push
    (name
       "Push")
@@ -355,6 +1032,40 @@
       (character_outfit goth1)
       (guitar flying_v)
       (venue arena)))
+(revodeath
+   (name "Revolution Deathsquad")
+   (artist
+      {do
+         {set $songalbum "Inhuman Rampage"}
+         {set $author "Neversoft, AddyMills"}
+         {set $songyear "2005"}
+         {set $songgenre "Metal"}
+         {set $songorigin "Guitar Hero III DLC"}
+         {set $songduration 474013}
+         {set $songguitarrank 7}
+         {set $songbassrank 6}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "DragonForce"}
+      }
+      "DragonForce"
+   )
+   (caption performed_by)
+   (song
+      (name songs/revodeath/revodeath)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-3.0 -3.0 -3.0 -3.0 -3.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/revodeath/revodeath.mid))
+   (anim_tempo kTempoFast)
+   (preview 81616 106216)
+   (quickplay
+      (character_outfit goth1)
+      (guitar epiphone_coronet)
+      (venue theatre)))
 (retribution
    (name "Retribution")
    (artist
@@ -396,7 +1107,7 @@
          {set $songalbum "Greetings from Elderbush Gulch"}
          {set $author "mariteaux"}
          {set $songyear "2006"}
-         {set $songgenre "Rock"}
+         {set $songgenre "Acoustic"}
          {set $songorigin "marfGH: Vol. 0"}
          {set $songduration 72262}
          {set $songguitarrank 0}
@@ -424,6 +1135,45 @@
       (guitar es335)
       (venue battle))
    (band metal_drummer))
+(station
+   (name
+      "Stay Inside Your Station")
+   (artist
+      {do
+         {set $songalbum "Loom"}
+         {set $author "mariteaux"}
+         {set $songyear "2013"}
+         {set $songgenre "Indie Rock"}
+         {set $songorigin "AddyGH"}
+         {set $songduration 273001}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "c.layne"}
+      }
+      "c.layne"
+   )
+   (caption performed_by)
+   (song
+      (name songs/station/station)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (0.0 0.0 0.0 0.0 0.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/station/station.mid))
+   (anim_tempo kTempoMedium)
+   (preview 41000 68147)
+   (quickplay
+      (character_outfit rock2)
+      (guitar corvus)
+      (venue battle)))
 (substitution
    (name
       "Substitution")
@@ -498,6 +1248,123 @@
       (guitar moderne)
       (venue stone))
    (band metal_bass metal_drummer metal_keyboard))
+(takethislife
+   (name
+      "Take This Life")
+   (artist
+      {do
+         {set $songalbum "Come Clarity"}
+         {set $author "AddyMills"}
+         {set $songyear "2006"}
+         {set $songgenre "Metal"}
+         {set $songorigin "AddyGH"}
+         {set $songduration 216432}
+         {set $songguitarrank 6}
+         {set $songbassrank 6}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "In Flames"}
+      }
+      "In Flames"
+   )
+   (caption performed_by)
+   (song
+      (name songs/takethislife/takethislife)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-2.0 -2.0 -2.0 -2.0 -1.5))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/takethislife/takethislife.mid))
+   (anim_tempo kTempoMedium)
+   (preview 55435 85435)
+   (quickplay
+      (character_outfit glam1)
+      (guitar corvus)
+      (venue battle)))
+(takeoutthetrash
+   (name
+      "Time to Take Out the Trash")
+   (artist
+      {do
+         {set $songalbum "I Don't Know What I'm Doing"}
+         {set $author "mariteaux"}
+         {set $songyear "2003"}
+         {set $songgenre "Indie Rock"}
+         {set $songorigin "AddyGH"}
+         {set $songduration 195697}
+         {set $songguitarrank 3}
+         {set $songbassrank 2}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Brad Sucks"}
+      }
+      "Brad Sucks"
+   )
+   (caption performed_by)
+   (song
+      (name songs/takeoutthetrash/takeoutthetrash)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (0.0 0.0 0.0 0.0 0.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/takeoutthetrash/takeoutthetrash.mid))
+   (anim_tempo kTempoMedium)
+   (preview 50000 95000)
+   (quickplay
+      (character_outfit alterna2)
+      (guitar lespaul_doublecut_sticker)
+      (venue small2)))
+(trappedunderice
+   (name
+      "Trapped Under Ice")
+   (artist
+      {do
+         {set $songalbum "Ride the Lightning"}
+         {set $author "Neversoft, AddyMills"}
+         {set $songyear "1984"}
+         {set $songgenre "Metal"}
+         {set $songorigin "Guitar Hero: World Tour"}
+         {set $songduration 244767}
+         {set $songguitarrank 7}
+         {set $songbassrank 5}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Metallica"}
+      }
+      "Metallica"
+   )
+   (caption performed_by)
+   (song
+      (name songs/trappedunderice/trappedunderice)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-3.0 -3.0 -2.0 -2.0 -4.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/trappedunderice/trappedunderice.mid))
+   (anim_tempo kTempoFast)
+   (preview 57824 74095)
+   (quickplay
+      (character_outfit alterna2)
+      (guitar es335)
+      (venue battle)))
 (veryape
    (name "Very Ape")
    (artist
@@ -541,6 +1408,79 @@
       (character_outfit alterna1)
       (guitar sg)
       (venue fest)))
+(warensemble
+   (name
+      "War Ensemble")
+   (artist
+      {do
+         {set $songalbum "Seasons in the Abyss"}
+         {set $author "Neversoft, AddyMills"}
+         {set $songyear "1990"}
+         {set $songgenre "Metal"}
+         {set $songorigin "Guitar Hero: Metallica"}
+         {set $songduration 295831}
+         {set $songguitarrank 7}
+         {set $songbassrank 7}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Slayer"}
+      }
+      "Slayer"
+   )
+   (caption performed_by)
+   (song
+      (name songs/warensemble/warensemble)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-3.0 -3.0 -2.0 -2.0 -2.5))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/warensemble/warensemble.mid))
+   (anim_tempo kTempoFast)
+   (preview 73787 98883)
+   (quickplay
+      (character_outfit punk2)
+      (guitar es335)
+      (venue big)))
+(warofthegods
+   (name "War of the Gods")
+   (artist
+      {do
+         {set $songalbum "Surtur Rising"}
+         {set $author "AddyMills"}
+         {set $songyear "2011"}
+         {set $songgenre "Metal"}
+         {set $songorigin "AddyGH"}
+         {set $songduration 274559}
+         {set $songguitarrank 6}
+         {set $songbassrank 5}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Amon Amarth"}
+      }
+      "Amon Amarth"
+   )
+   (caption performed_by)
+   (song
+      (name songs/warofthegods/warofthegods)
+      (tracks
+         ((guitar 2)
+          (bass 3)))
+      (pans (-1.0 1.0 0.0 0.0))
+      (vols (0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 -1))
+      (midi_file songs/warofthegods/warofthegods.mid))
+   (anim_tempo kTempoFast)
+   (preview 71937 94554)
+   (quickplay
+      (character_outfit funk1)
+      (guitar epiphone_coronet)
+      (venue big)))
 (wedieyoung
    (name
       "We Die Young")
