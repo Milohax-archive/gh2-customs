@@ -557,7 +557,7 @@
          {set $songalbum "Prototype"}
          {set $author "AddyMills"}
          {set $songyear "2021"}
-         {set $songgenre "Pop/Dance/Electronic"}
+         {set $songgenre "J-Pop"}
          {set $songorigin "AddyGH"}
          {set $songduration 236571}
          {set $songguitarrank 0}
