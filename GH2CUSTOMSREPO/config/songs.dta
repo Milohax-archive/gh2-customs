@@ -36,6 +36,46 @@
       (character_outfit classic)
       (guitar flying_v)
       (venue small1)))
+(alloveryou
+   (name
+      "All Over You")
+   (artist
+      {do
+         {set $songalbum "Throwing Copper"}
+         {set $author "Harmonix"}
+         {set $songyear "1994"}
+         {set $songgenre "Alternative"}
+         {set $songorigin "Rock Band 4"}
+         {set $songduration 242948}
+         {set $songguitarrank 3}
+         {set $songbassrank 4}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 5}
+         {set $songartist "Live"}
+      }
+      "Live"
+   )
+   (caption performed_by)
+   (song
+      (name songs/alloveryou/alloveryou)
+      (tracks
+         ((guitar 2)
+          (bass 3)
+            (drum 
+			   (4 5))))
+      (pans
+         (-1.0 1.0 0.0 0.0 -1.0 1.0))
+      (vols
+         (0.0 0.0 0.0 0.0 0.0 0.0))
+      (cores
+         (-1 -1 1 -1 -1 -1))
+      (midi_file songs/alloveryou/alloveryou.mid))
+   (anim_tempo kTempoMedium)
+   (preview 19800 68490)
+   (quickplay
+      (character_outfit alterna1)
+      (guitar sg)
+      (venue fest)))
 (baseline
    (name "Baseline")
    (artist
@@ -229,6 +269,46 @@
       (character_outfit rock2)
       (guitar lespaul_marauder)
       (venue small2)))
+(chopsuey
+   (name
+      "Chop Suey!")
+   (artist
+      {do
+         {set $songalbum "Toxicity"}
+         {set $author "Harmonix"}
+         {set $songyear "2001"}
+         {set $songgenre "Nu-Metal"}
+         {set $songorigin "Rock Band 2"}
+         {set $songduration 213896}
+         {set $songguitarrank 6}
+         {set $songbassrank 7}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 5}
+         {set $songartist "System of a Down"}
+      }
+      "System of a Down"
+   )
+   (caption performed_by)
+   (song
+      (name songs/chopsuey/chopsuey)
+      (tracks
+         ((guitar 2)
+          (bass 3)
+            (drum 
+			   (4 5))))
+      (pans
+         (-1.0 1.0 0.0 0.0 -1.0 1.0))
+      (vols
+         (0.0 0.0 0.0 0.0 0.0 0.0))
+      (cores
+         (-1 -1 1 -1 -1 -1))
+      (midi_file songs/chopsuey/chopsuey.mid))
+   (anim_tempo kTempoMedium)
+   (preview 41000 65500)
+   (quickplay
+      (character_outfit punk1)
+      (guitar sg)
+      (venue big)))
 (codemonkey
    (name "Code Monkey")
    (artist
@@ -298,6 +378,46 @@
       (character_outfit goth1)
       (guitar epiphone_coronet)
       (venue big)))
+(crawl
+   (name
+      "Crawl")
+   (artist
+      {do
+         {set $songalbum "Only by the Night"}
+         {set $author "Harmonix"}
+         {set $songyear "2008"}
+         {set $songgenre "Rock"}
+         {set $songorigin "Rock Band 2 DLC"}
+         {set $songduration 253237}
+         {set $songguitarrank 5}
+         {set $songbassrank 4}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 4}
+         {set $songartist "Kings of Leon"}
+      }
+      "Kings of Leon"
+   )
+   (caption performed_by)
+   (song
+      (name songs/crawl/crawl)
+      (tracks
+         ((guitar 2)
+          (bass 3)
+            (drum 
+			   (4 5))))
+      (pans
+         (-1.0 1.0 0.0 0.0 -1.0 1.0))
+      (vols
+         (0.0 0.0 0.0 0.0 0.0 0.0))
+      (cores
+         (-1 -1 1 -1 -1 -1))
+      (midi_file songs/crawl/crawl.mid))
+   (anim_tempo kTempoMedium)
+   (preview 24900 59100)
+   (quickplay
+      (character_outfit rock2)
+      (guitar lespaul)
+      (venue small2)))
 (deathmental
    (name "Death Mental")
    (artist
@@ -331,6 +451,46 @@
    (quickplay
       (character_outfit goth1)
       (guitar epiphone_coronet)
+      (venue theatre)))
+(debaser
+   (name
+      "Debaser")
+   (artist
+      {do
+         {set $songalbum "Doolittle"}
+         {set $author "Harmonix"}
+         {set $songyear "1989"}
+         {set $songgenre "Alternative"}
+         {set $songorigin "Rock Band 1 DLC"}
+         {set $songduration 175822}
+         {set $songguitarrank 4}
+         {set $songbassrank 4}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 5}
+         {set $songartist "Pixies"}
+      }
+      "Pixies"
+   )
+   (caption performed_by)
+   (song
+      (name songs/debaser/debaser)
+      (tracks
+         ((guitar 2)
+          (bass 3)
+            (drum 
+			   (4 5))))
+      (pans
+         (-1.0 1.0 0.0 0.0 -1.0 1.0))
+      (vols
+         (0.0 0.0 0.0 0.0 0.0 0.0))
+      (cores
+         (-1 -1 1 -1 -1 -1))
+      (midi_file songs/debaser/debaser.mid))
+   (anim_tempo kTempoMedium)
+   (preview 24900 59100)
+   (quickplay
+      (character_outfit alterna1)
+      (guitar lespaul)
       (venue theatre)))
 (december
    (name "December")
@@ -625,6 +785,46 @@
       (character_outfit punk1)
       (guitar sg)
       (venue fest)))
+(greengrass
+   (name
+      "Green Grass and High Tides")
+   (artist
+      {do
+         {set $songalbum "The Outlaws"}
+         {set $author "Harmonix"}
+         {set $songyear "1975"}
+         {set $songgenre "Southern Rock"}
+         {set $songorigin "Rock Band 1"}
+         {set $songduration 595630}
+         {set $songguitarrank 7}
+         {set $songbassrank 7}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 5}
+         {set $songartist "The Outlaws"}
+      }
+      "The Outlaws"
+   )
+   (song
+      (name songs/greengrass/greengrass)
+      (tracks
+         ((guitar 2)
+          (bass 3)
+            (drum 
+			   (4 5))))
+      (pans
+         (-1.0 1.0 0.0 0.0 -1.0 1.0))
+      (vols
+         (0.0 0.0 0.0 0.0 0.0 0.0))
+      (cores
+         (-1 -1 1 -1 -1 -1))
+      (midi_file songs/greengrass/greengrass.mid)
+      (hopo_threshold 250))
+   (anim_tempo kTempoMedium)
+   (preview 100650 142570)
+   (quickplay
+      (character_outfit rockabill1)
+      (guitar lespaul)
+      (venue big)))
 (witchhunting
    (name
       "Hunting for Witches")
@@ -664,6 +864,46 @@
    (quickplay
       (character_outfit funk1)
       (guitar kramer_vanguard)
+      (venue arena)))
+(imtheone
+   (name
+      "I'm the One")
+   (artist
+      {do
+         {set $songalbum "Van Halen"}
+         {set $author "Neversoft"}
+         {set $songyear "1978"}
+         {set $songgenre "Classic Rock"}
+         {set $songorigin "Guitar Hero: Van Halen"}
+         {set $songduration 225335}
+         {set $songguitarrank 7}
+         {set $songbassrank 4}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 5}
+         {set $songartist "Van Halen"}
+      }
+      "Van Halen"
+   )
+   (caption performed_by)
+   (song
+      (name songs/imtheone/imtheone)
+      (tracks
+         ((guitar 2)
+          (bass 3)
+            (drum 
+			   (4 5))))
+      (pans
+         (-1.0 1.0 0.0 0.0 -1.0 1.0))
+      (vols
+         (0.0 0.0 0.0 0.0 0.0 0.0))
+      (cores
+         (-1 -1 1 -1 -1 -1))
+      (midi_file songs/imtheone/imtheone.mid))
+   (anim_tempo kTempoFast)
+   (preview 34500 73250)
+   (quickplay
+      (character_outfit glam1)
+      (guitar flying_v)
       (venue arena)))
 (allalone
    (name "Incomplete and All Alone")
@@ -849,6 +1089,47 @@
       (character_outfit classic)
       (guitar eds)
       (venue fest)))
+(maps
+   (name
+      "Maps")
+   (artist
+      {do
+         {set $songalbum "Fever to Tell"}
+         {set $author "Harmonix"}
+         {set $songyear "2003"}
+         {set $songgenre "Rock"}
+         {set $songorigin "Rock Band 1"}
+         {set $songduration 202439}
+         {set $songguitarrank 1}
+         {set $songbassrank 1}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 4}
+         {set $songartist "Yeah Yeah Yeahs"}
+      }
+      "Yeah Yeah Yeahs"
+   )
+   (caption performed_by)
+   (song
+      (name songs/maps/maps)
+      (tracks
+         ((guitar 2)
+          (bass 3)
+            (drum 
+			   (4 5))))
+      (pans
+         (-1.0 1.0 0.0 0.0 -1.0 1.0))
+      (vols
+         (0.0 0.0 0.0 0.0 0.0 0.0))
+      (cores
+         (-1 -1 1 -1 -1 -1))
+      (midi_file songs/maps/maps.mid))
+   (anim_tempo kTempoMedium)
+   (preview 22000 63400)
+   (band metal_bass metal_drummer female_singer)
+   (quickplay
+      (character_outfit alterna1)
+      (guitar sg)
+      (venue small2)))
 (monster
    (name
       "Monster")
@@ -1326,6 +1607,45 @@
       (character_outfit alterna2)
       (guitar lespaul_doublecut_sticker)
       (venue small2)))
+(tomsawyer
+   (name
+      "Tom Sawyer")
+   (artist
+      {do
+         {set $songalbum "Moving Pictures"}
+         {set $author "Harmonix"}
+         {set $songyear "1981"}
+         {set $songgenre "Prog"}
+         {set $songorigin "Rock Band 1"}
+         {set $songduration 290377}
+         {set $songguitarrank 6}
+         {set $songbassrank 5}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 7}
+         {set $songartist "Rush"}
+      }
+      "Rush"
+   )
+   (song
+      (name songs/tomsawyer/tomsawyer)
+      (tracks
+         ((guitar 2)
+          (bass 3)
+            (drum 
+			   (4 5))))
+      (pans
+         (-1.0 1.0 0.0 0.0 -1.0 1.0))
+      (vols
+         (0.0 0.0 0.0 0.0 0.0 0.0))
+      (cores
+         (-1 -1 1 -1 -1 -1))
+      (midi_file songs/tomsawyer/tomsawyer.mid))
+   (anim_tempo kTempoMedium)
+   (preview 27300 68470)
+   (quickplay
+      (character_outfit classic)
+      (guitar flying_v)
+      (venue fest)))
 (trappedunderice
    (name
       "Trapped Under Ice")
