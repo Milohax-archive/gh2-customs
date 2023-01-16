@@ -1529,6 +1529,44 @@
       (guitar moderne)
       (venue stone))
    (band metal_bass metal_drummer metal_keyboard))
+(sunshineofyourlove
+   (name
+      "Sunshine of Your Love")
+   (artist
+      {do
+         {set $songalbum "Disraeli Gears"}
+         {set $author "mariteaux"}
+         {set $songyear "1967"}
+         {set $songgenre "Classic Rock"}
+         {set $songorigin "marfGH: Volume 1"}
+         {set $songduration 481918}
+         {set $songguitarrank 2}
+         {set $songbassrank 1}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Cream"}
+      }
+      "Cream"
+   )
+   (song
+      (name songs/sunshineofyourlove/sunshineofyourlove)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (0.0 0.0 0.0 0.0 0.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/sunshineofyourlove/sunshineofyourlove.mid))
+   (anim_tempo kTempoMedium)
+   (preview 50260 86830)
+   (quickplay
+      (character_outfit classic)
+      (guitar lespaul)
+      (venue theatre)))
 (takethislife
    (name
       "Take This Life")
@@ -1685,6 +1723,45 @@
       (character_outfit alterna2)
       (guitar es335)
       (venue battle)))
+(understood
+   (name
+      "Understood By Your Dad")
+   (artist
+      {do
+         {set $songalbum "Out of It"}
+         {set $author "mariteaux"}
+         {set $songyear "2008"}
+         {set $songgenre "Indie Rock"}
+         {set $songorigin "marfGH: Volume 1"}
+         {set $songduration 293758}
+         {set $songguitarrank 3}
+         {set $songbassrank 2}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Brad Sucks"}
+      }
+      "Brad Sucks"
+   )
+   (caption performed_by)
+   (song
+      (name songs/understood/understood)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (0.0 0.0 0.0 0.0 0.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/understood/understood.mid))
+   (anim_tempo kTempoMedium)
+   (preview 50260 86830)
+   (quickplay
+      (character_outfit rock2)
+      (guitar lespaul)
+      (venue small1)))
 (veryape
    (name "Very Ape")
    (artist
@@ -1727,6 +1804,49 @@
    (quickplay
       (character_outfit alterna1)
       (guitar sg)
+      (venue fest)))
+(venturahighway
+   (name "Ventura Highway")
+   (artist
+      {do
+         {set $songalbum "Homecoming"}
+         {set $author "mariteaux"}
+         {set $songyear "1972"}
+         {set $songgenre "Classic Rock"}
+         {set $songorigin "marfGH: Volume 1"}
+         {set $songduration 456958}
+         {set $songguitarrank 4}
+         {set $songbassrank 0}
+         {set $songrhythmrank 4}
+         {set $songdrumrank 0}
+         {set $songartist "America"}
+      }
+      "America"
+   )
+   (caption performed_by)
+   (song
+      (name songs/venturahighway/venturahighway)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/venturahighway/venturahighway.mid))
+   (song_coop
+      (name songs/venturahighway/venturahighway_coop)
+      (tracks
+         ((guitar (2 3))
+          (rhythm (4 5))))
+      (pans (-1.0 1.0 -1.0 1.0 -1.0 1.0))
+      (vols (0.0 0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 1 -1 -1))
+      (midi_file songs/venturahighway/venturahighway_coop.mid))
+   (anim_tempo kTempoMedium)
+   (preview 34900 53840)
+   (quickplay
+      (character_outfit classic)
+      (guitar es335)
       (venue fest)))
 (warensemble
    (name
