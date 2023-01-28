@@ -1,3 +1,36 @@
+(ikea
+   (name "Ikea")
+   (artist
+      {do
+         {set $songalbum "Smoking Monkey"}
+         {set $author "mariteaux"}
+         {set $songyear "2003"}
+         {set $songgenre "Indie Rock"}
+         {set $songorigin "marfGH"}
+         {set $songduration 94464}
+         {set $songguitarrank 3}
+         {set $songbassrank 2}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Jonathan Coulton"}
+      }
+	  "Jonathan Coulton")
+   (caption performed_by)
+   (song
+      (name songs/ikea/ikea)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/ikea/ikea.mid))
+   (anim_tempo kTempoMedium)
+   (preview 29220 50980)
+   (quickplay
+      (character_outfit alterna1)
+      (guitar lespaul)
+      (venue small2)))
 (allday
    (name
       "All Day and All of the Night")
